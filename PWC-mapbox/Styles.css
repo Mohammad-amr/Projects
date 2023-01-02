@@ -1,0 +1,25 @@
+﻿#map {
+
+    margin-top: 20px;
+    width: 100%;
+    height: 1050px;
+    border-radius: 20px;
+    border: 2px solid SlateGrey;
+
+
+}
+
+
+
+
+footer {
+
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+
+}
+
+
+
+
